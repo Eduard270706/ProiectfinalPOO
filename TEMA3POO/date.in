@@ -1,0 +1,483 @@
+2
+LALIGA 20
+Real_Madrid 11
+Portar Courtois 1 89.0 93 92 91 93
+Fundas Carvajal 2 84.0 86 86 88
+Fundas Rudiger 4 86.0 81 87 86
+Fundas Militao 5 84.0 82 85 85
+Fundas Mendy 3 82.0 85 88 84
+Mijlocas Valverde 6 89.0 86 89 88
+Mijlocas Tchouameni 8 85.0 90 87 86
+Mijlocas Bellingham 10 90.0 92 95 89
+Mijlocas Vinicius 7 89.0 88 95 94
+Atacant Mbappe 9 91.0 96 94 93
+Atacant Rodrygo 11 86.0 90 90 88
+FC_Barcelona 11
+Portar Ter_Stegen 1 84.0 86 83 83 88
+Fundas Kounde 2 87.0 88 92 91
+Fundas Araujo 4 85.0 88 89 86
+Fundas Cubarsi 5 80.0 83 82 83
+Fundas Balde 3 81.0 81 85 82
+Mijlocas Pedri 6 89.0 86 89 89
+Mijlocas De_Jong 8 87.0 87 92 87
+Mijlocas Gavi 10 83.0 87 86 88
+Atacant Lamine_Yamal 7 89.0 93 91 91
+Atacant Lewandowski 9 88.0 94 90 89
+Atacant Raphinha 11 89.0 90 95 90
+Atletico_Madrid 11
+Portar Oblak 1 86.0 89 79 82 86
+Fundas Molina 2 81.0 81 87 81
+Fundas Gimenez 4 83.0 86 89 84
+Fundas Le_Normand 5 82.0 84 85 87
+Mijlocas Reinildo 3 79.0 76 85 81
+Mijlocas Koke 6 82.0 85 84 86
+Mijlocas De_Paul 8 84.0 86 84 87
+Mijlocas Barrios 10 78.0 79 80 80
+Mijlocas Griezmann 7 84.0 83 88 89
+Atacant Julian_Alvarez 9 84.0 89 85 84
+Atacant Sorloth 11 82.0 84 89 84
+Villarreal_CF 11
+Portar Luiz_Junior 1 75.0 76 73 75 76
+Fundas Foyth 2 80.0 82 80 81
+Fundas Albiol 4 78.0 77 78 80
+Fundas Bailly 5 76.0 72 79 78
+Fundas Cardona 3 75.0 71 79 80
+Mijlocas Parejo 6 82.0 87 83 82
+Mijlocas Comesana 8 76.0 80 79 78
+Mijlocas Baena 10 82.0 83 85 85
+Mijlocas Pino 7 80.0 81 80 82
+Atacant Gerard_Moreno 9 82.0 86 88 84
+Atacant Ayoze_Perez 11 80.0 78 87 86
+Athletic_Bilbao 11
+Portar Unai_Simon 1 83.0 83 84 84 83
+Fundas De_Marcos 2 78.0 77 82 82
+Fundas Vivian 4 81.0 83 81 81
+Fundas Paredes 5 79.0 82 85 82
+Fundas Yuri 3 79.0 80 85 79
+Mijlocas Prados 6 77.0 81 79 80
+Mijlocas Sancet 8 81.0 86 85 82
+Mijlocas Galarreta 10 78.0 81 78 79
+Mijlocas Nico_Williams 7 85.0 89 86 83
+Mijlocas Guruzeta 9 79.0 77 84 84
+Atacant Inaki_Williams 11 81.0 86 82 86
+Real_Sociedad 11
+Portar Remiro 1 82.0 82 78 80 80
+Fundas Traore 2 77.0 76 78 80
+Fundas Zubeldia 4 79.0 81 83 84
+Fundas Le_Normand 5 82.0 84 83 84
+Fundas Munoz 3 78.0 79 79 82
+Mijlocas Zubimendi 6 84.0 83 84 88
+Mijlocas Brais_Mendez 8 80.0 77 80 80
+Mijlocas Mikel_Merino 10 84.0 81 85 83
+Atacant Kubo 7 81.0 80 84 81
+Atacant Oyarzabal 9 81.0 79 84 85
+Atacant Barrenetxea 11 78.0 76 83 81
+Real_Betis 11
+Portar Rui_Silva 1 78.0 81 81 81 80
+Fundas Bellerin 2 77.0 73 82 81
+Fundas Bartra 4 78.0 76 83 80
+Fundas Llorente 5 77.0 78 81 83
+Fundas Perraud 3 75.0 72 78 79
+Mijlocas Cardoso 6 76.0 81 82 80
+Mijlocas Fornals 8 78.0 77 82 77
+Mijlocas Isco 10 82.0 85 86 81
+Mijlocas Antony 7 80.0 77 83 81
+Mijlocas Bakambu 9 78.0 82 83 82
+Atacant Ezzalzouli 11 77.0 83 81 83
+Celta_Vigo 11
+Portar Guaita 1 76.0 79 69 78 77
+Fundas Mingueza 2 78.0 78 80 82
+Fundas Starfelt 4 77.0 74 80 79
+Fundas Aidoo 5 75.0 79 78 75
+Mijlocas Ristic 3 74.0 78 79 79
+Mijlocas Beltran 6 76.0 81 79 74
+Mijlocas Sotelo 8 73.0 78 73 78
+Mijlocas Bamba 10 76.0 77 80 74
+Atacant Aspas 7 83.0 82 87 84
+Atacant Douvikas 9 75.0 80 75 80
+Atacant Swedberg 11 73.0 75 77 73
+Valencia_CF 11
+Portar Mamardashvili 1 85.0 86 77 88 86
+Fundas Foulquier 2 76.0 73 81 82
+Fundas Mosquera 4 77.0 77 81 81
+Fundas Diakhaby 5 77.0 77 81 78
+Fundas Gaya 3 80.0 81 81 80
+Mijlocas Pepelu 6 79.0 80 79 78
+Mijlocas Javi_Guerra 8 76.0 80 78 75
+Mijlocas Almeida 10 76.0 75 82 81
+Mijlocas Diego_Lopez 7 76.0 79 78 79
+Atacant Duro 9 79.0 80 82 84
+Atacant Fran_Perez 11 75.0 73 75 78
+Girona_FC 11
+Portar Gazzaniga 1 80.0 82 76 84 83
+Fundas Arnau_Martinez 2 76.0 80 81 81
+Fundas David_Lopez 4 77.0 79 77 83
+Fundas Blind 5 79.0 82 85 82
+Fundas Miguel_Gutierrez 3 80.0 84 83 86
+Mijlocas Yangel_Herrera 6 78.0 76 84 83
+Mijlocas Ivan_Martin 8 77.0 78 77 79
+Mijlocas Tsygankov 10 79.0 76 84 77
+Mijlocas Portu 7 77.0 82 82 81
+Mijlocas Stuani 9 77.0 76 77 78
+Atacant Bryan_Gil 11 78.0 82 81 79
+Sevilla_FC 11
+Portar Nyland 1 76.0 80 77 77 79
+Fundas Navas 2 78.0 74 82 80
+Fundas Bade 4 79.0 77 79 82
+Fundas Gudelj 5 78.0 81 84 84
+Fundas Pedrosa 3 76.0 71 79 81
+Mijlocas Soumare 6 78.0 75 83 78
+Mijlocas Suso 8 77.0 80 83 77
+Mijlocas Sow 10 78.0 75 81 81
+Atacant Lukebakio 7 79.0 84 82 84
+Atacant Isaac_Romero 9 76.0 82 81 77
+Atacant Ejuke 11 76.0 75 77 77
+Espanyol 11
+Portar Joan_Garcia 1 79.0 79 74 78 82
+Fundas Omar_El_Hilali 2 73.0 69 75 75
+Fundas Cabrera 4 76.0 74 82 81
+Fundas Calero 5 75.0 73 80 77
+Fundas Olivan 3 75.0 76 79 76
+Fundas Gragera 6 74.0 71 78 74
+Mijlocas Aguado 8 75.0 76 80 77
+Mijlocas Puado 10 77.0 79 82 78
+Mijlocas Jofre 7 74.0 75 80 77
+Atacant Braithwaite 9 77.0 83 78 80
+Atacant Pere_Milla 11 74.0 77 79 75
+Rayo_Vallecano 11
+Portar Batalla 1 76.0 77 77 78 78
+Fundas Ratiu 2 75.0 72 78 77
+Fundas Lejeune 4 77.0 72 78 78
+Fundas Mumin 5 75.0 73 80 76
+Fundas Espino 3 75.0 73 81 80
+Mijlocas Unai_Lopez 6 76.0 74 80 80
+Mijlocas Valentin 8 74.0 75 79 78
+Mijlocas Isi_Palazon 10 77.0 82 79 75
+Mijlocas Trejo 7 75.0 79 80 77
+Mijlocas Alvaro_Garcia 9 77.0 82 78 76
+Atacant Camello 11 75.0 79 78 79
+CA_Osasuna 11
+Portar Herrera 1 78.0 78 72 77 80
+Fundas Areso 2 75.0 73 81 75
+Fundas Catena 4 77.0 73 79 80
+Fundas Boyomo 5 75.0 75 78 78
+Fundas Juan_Cruz 3 74.0 75 78 74
+Mijlocas Torro 6 76.0 76 78 77
+Mijlocas Moncayola 8 77.0 76 79 77
+Mijlocas Oroz 10 76.0 76 81 78
+Atacant Ruben_Garcia 7 76.0 78 83 76
+Atacant Budimir 9 80.0 82 87 83
+Atacant Bryan_Zaragoza 11 76.0 75 82 76
+RCD_Mallorca 11
+Portar Greif 1 75.0 76 77 75 73
+Fundas Maffeo 2 76.0 76 78 80
+Fundas Raillo 4 77.0 75 80 79
+Fundas Valjent 5 76.0 77 77 76
+Fundas Mojica 3 75.0 76 79 81
+Fundas Darder 6 80.0 75 84 81
+Mijlocas Samu_Costa 8 76.0 74 82 76
+Mijlocas Mascarell 10 76.0 75 78 79
+Mijlocas Dani_Rodriguez 7 76.0 79 81 81
+Atacant Muriqi 9 79.0 81 84 85
+Atacant Larin 11 76.0 80 82 76
+Levante_UD 11
+Portar Andres_Fernandez 1 74.0 75 68 70 74
+Fundas Pubill 2 75.0 78 80 80
+Fundas Postigo 4 73.0 68 77 76
+Fundas Dela 5 72.0 69 74 74
+Fundas Alex_Munoz 3 74.0 76 75 78
+Mijlocas Oriol_Rey 6 74.0 76 75 72
+Mijlocas Pablo_Martinez 8 75.0 77 78 80
+Mijlocas Brugue 10 72.0 75 75 70
+Mijlocas Morales 7 77.0 79 77 77
+Atacant Bouldini 9 73.0 71 80 79
+Atacant Carlos_Alvarez 11 74.0 76 80 76
+Elche_CF 11
+Portar Dituro 1 75.0 77 69 72 73
+Fundas Josan 2 73.0 72 73 75
+Fundas Bigas 4 74.0 73 79 80
+Fundas Clerc 5 73.0 71 73 78
+Fundas Mario_Gaspar 3 74.0 70 79 76
+Mijlocas Febas 6 74.0 71 78 73
+Mijlocas Fidel 8 75.0 77 79 78
+Mijlocas Nico_Castro 10 73.0 74 77 71
+Mijlocas Mourad 7 72.0 75 74 71
+Mijlocas Plano 9 75.0 75 81 78
+Atacant Nteka 11 74.0 73 80 77
+Getafe_CF 11
+Portar Soria 1 80.0 80 78 79 79
+Fundas Iglesias 2 74.0 70 80 80
+Fundas Djene 4 76.0 71 82 80
+Fundas Alderete 5 76.0 74 80 78
+Fundas Rico 3 75.0 73 81 78
+Fundas Arambarri 6 77.0 79 77 79
+Mijlocas Milla 8 76.0 75 81 74
+Mijlocas Uche 10 74.0 72 74 76
+Mijlocas Mayoral 7 79.0 80 81 80
+Atacant Greenwood 9 78.0 81 79 78
+Atacant Mata 11 73.0 79 76 73
+Deportivo_Alaves 11
+Portar Sivera 1 77.0 81 80 79 75
+Fundas Gorosabel 2 75.0 74 81 80
+Fundas Abqar 4 74.0 75 78 77
+Fundas Sedlar 5 74.0 70 78 77
+Fundas Duarte 3 75.0 76 79 80
+Mijlocas Guevara 6 76.0 77 79 78
+Mijlocas Blanco 8 75.0 77 75 77
+Mijlocas Carlos_Vicente 10 76.0 77 79 80
+Mijlocas Guridi 7 75.0 76 80 78
+Mijlocas Rioja 9 76.0 75 78 76
+Atacant Kike_Garcia 11 75.0 79 82 80
+Real_Oviedo 11
+Portar Aaron_Escandell 1 73.0 74 67 69 71
+Fundas Lucas_Ahumada 2 69.0 73 70 75
+Fundas Dani_Calvo 4 73.0 76 73 78
+Fundas David_Costas 5 73.0 70 75 78
+Fundas Pomares 3 72.0 74 73 78
+Mijlocas Santi_Cazorla 6 78.0 79 79 76
+Mijlocas Colombatto 8 75.0 79 81 77
+Mijlocas Camarasa 10 73.0 73 74 72
+Mijlocas Sebas_Moyano 7 72.0 76 73 76
+Atacant Alemao 9 72.0 78 73 77
+Atacant Borja_Baston 11 74.0 77 79 79
+PREMIER_LEAGUE 20
+Manchester_City 11
+Portar Ederson 1 87.0 91 89 90 91
+Fundas Walker 2 84.0 88 87 87
+Fundas Dias 4 88.0 91 91 89
+Fundas Stones 5 84.0 83 90 84
+Fundas Gvardiol 3 84.0 83 88 90
+Mijlocas Rodri 6 90.0 92 92 90
+Mijlocas De_Bruyne 8 88.0 87 89 90
+Mijlocas Foden 10 87.0 89 88 88
+Atacant Doku 7 80.0 81 80 79
+Atacant Haaland 9 90.0 89 90 92
+Atacant Bernardo_Silva 11 88.0 88 89 87
+Arsenal 11
+Portar Raya 1 83.0 83 85 82 87
+Fundas White 2 84.0 82 84 85
+Fundas Saliba 4 87.0 88 93 88
+Fundas Gabriel 5 86.0 82 90 90
+Fundas Timber 3 82.0 84 87 83
+Mijlocas Rice 6 87.0 92 89 87
+Mijlocas Odegaard 8 88.0 93 92 88
+Mijlocas Merino 10 83.0 88 85 82
+Atacant Saka 7 88.0 92 95 92
+Atacant Havertz 9 84.0 89 85 90
+Atacant Martinelli 11 84.0 82 84 89
+Chelsea 11
+Portar Robert_Sanchez 1 79.0 81 71 78 82
+Fundas Reece_James 2 83.0 78 85 84
+Fundas Colwill 4 79.0 82 83 82
+Fundas Fofana 5 79.0 81 79 83
+Fundas Cucurella 3 81.0 78 81 86
+Mijlocas Caicedo 6 84.0 85 89 82
+Mijlocas Enzo_Fernandez 8 83.0 81 86 83
+Mijlocas Palmer 10 87.0 85 92 90
+Mijlocas Madueke 7 80.0 77 85 85
+Mijlocas Nicolas_Jackson 9 81.0 83 82 79
+Atacant Pedro_Neto 11 81.0 84 81 81
+Liverpool 11
+Portar Alisson 1 89.0 91 91 92 88
+Fundas Alexander_Arnold 2 86.0 90 87 92
+Fundas Konate 4 83.0 84 89 83
+Fundas Van_Dijk 5 90.0 94 93 94
+Fundas Robertson 3 84.0 80 89 84
+Mijlocas Mac_Allister 6 84.0 88 88 88
+Mijlocas Szoboszlai 8 84.0 83 86 85
+Mijlocas Gravenberch 10 81.0 79 83 85
+Mijlocas Salah 7 91.0 89 96 96
+Mijlocas Nunez 9 82.0 79 86 85
+Atacant Luis_Diaz 11 85.0 84 90 84
+Tottenham_Hotspur 11
+Portar Vicario 1 82.0 83 76 78 80
+Fundas Porro 2 82.0 82 87 87
+Fundas Romero 4 84.0 86 85 86
+Fundas Van_de_Ven 5 81.0 76 87 86
+Fundas Udogie 3 81.0 85 86 86
+Mijlocas Bissouma 6 80.0 77 80 81
+Mijlocas Maddison 8 84.0 82 89 85
+Mijlocas Kulusevski 10 82.0 84 84 81
+Atacant Son 7 85.0 84 86 84
+Atacant Solanke 9 81.0 87 83 82
+Atacant Johnson 11 79.0 84 82 81
+Manchester_United 11
+Portar Onana 1 83.0 84 84 85 85
+Fundas Dalot 2 82.0 82 82 87
+Fundas De_Ligt 4 84.0 87 87 90
+Fundas Martinez 5 84.0 82 88 89
+Mijlocas Shaw 3 82.0 83 85 82
+Mijlocas Casemiro 6 84.0 85 89 84
+Mijlocas Bruno_Fernandes 8 87.0 91 90 90
+Mijlocas Mainoo 10 78.0 77 82 77
+Atacant Garnacho 7 80.0 78 80 86
+Atacant Hojlund 9 78.0 78 81 78
+Atacant Rashford 11 82.0 87 86 86
+Newcastle_United 11
+Portar Pope 1 82.0 82 76 81 83
+Fundas Trippier 2 83.0 86 83 86
+Fundas Schar 4 82.0 81 83 87
+Fundas Botman 5 81.0 81 84 87
+Fundas Hall 3 75.0 74 80 81
+Mijlocas Guimaraes 6 85.0 88 89 86
+Mijlocas Tonali 8 84.0 82 87 82
+Mijlocas Joelinton 10 82.0 87 82 87
+Atacant Gordon 7 82.0 83 87 82
+Atacant Isak 9 86.0 86 93 88
+Atacant Barnes 11 80.0 78 87 84
+Nottingham_Forest 11
+Portar Sels 1 77.0 81 72 76 76
+Fundas Aina 2 77.0 74 80 77
+Fundas Milenkovic 4 79.0 76 83 80
+Fundas Murillo 5 79.0 74 85 80
+Fundas Williams 3 75.0 77 76 75
+Mijlocas Yates 6 76.0 73 79 77
+Mijlocas Sangare 8 78.0 82 82 78
+Mijlocas Gibbs_White 10 80.0 80 85 79
+Mijlocas Elanga 7 78.0 75 84 76
+Mijlocas Hudson_Odoi 9 77.0 77 81 77
+Atacant Wood 11 80.0 78 84 79
+Aston_Villa 11
+Portar Martinez 1 85.0 86 82 86 88
+Fundas Cash 2 79.0 78 82 82
+Fundas Konsa 4 81.0 82 86 86
+Fundas Pau_Torres 5 82.0 82 85 86
+Fundas Digne 3 80.0 79 86 86
+Mijlocas Kamara 6 82.0 87 87 87
+Mijlocas Tielemans 8 81.0 81 81 81
+Mijlocas McGinn 10 80.0 85 80 80
+Mijlocas Bailey 7 82.0 80 84 87
+Mijlocas Watkins 9 85.0 85 87 86
+Atacant Rogers 11 78.0 78 85 78
+Crystal_Palace 11
+Portar Henderson 1 78.0 80 70 78 78
+Fundas Munoz 2 79.0 75 85 80
+Fundas Guehi 4 81.0 81 81 82
+Fundas Lacroix 5 78.0 81 78 84
+Mijlocas Mitchell 3 78.0 81 79 83
+Mijlocas Wharton 6 79.0 80 81 78
+Mijlocas Doucoure 8 78.0 81 80 83
+Mijlocas Eze 10 82.0 84 83 87
+Atacant Mateta 7 80.0 83 81 86
+Atacant Sarr 9 79.0 77 86 78
+Atacant Kamada 11 77.0 75 83 81
+AFC_Bournemouth 11
+Portar Kepa 1 81.0 82 80 85 81
+Fundas Aarons 2 75.0 71 79 79
+Fundas Zabarnyi 4 78.0 80 81 82
+Fundas Senesi 5 77.0 78 81 83
+Fundas Kerkez 3 78.0 80 81 78
+Mijlocas Cook 6 77.0 75 77 76
+Mijlocas Christie 8 76.0 77 76 80
+Mijlocas Kluivert 10 78.0 81 82 83
+Mijlocas Semenyo 7 79.0 77 83 82
+Mijlocas Evanilson 9 80.0 79 85 82
+Atacant Tavernier 11 77.0 75 78 81
+Brighton 11
+Portar Verbruggen 1 78.0 82 79 81 77
+Fundas Veltman 2 78.0 81 80 84
+Fundas Dunk 4 81.0 82 86 85
+Fundas Van_Hecke 5 78.0 77 81 78
+Fundas Estupinan 3 80.0 83 81 86
+Mijlocas Baleba 6 77.0 79 81 79
+Mijlocas Milner 8 78.0 83 79 76
+Mijlocas Mitoma 10 82.0 81 82 85
+Mijlocas Joao_Pedro 7 80.0 81 85 79
+Mijlocas Minteh 9 76.0 80 77 77
+Atacant Welbeck 11 78.0 76 79 82
+Brentford 11
+Portar Flekken 1 79.0 81 74 78 77
+Fundas Ajer 2 76.0 79 81 78
+Fundas Collins 4 77.0 75 77 80
+Fundas Pinnock 5 78.0 74 78 81
+Fundas Henry 3 76.0 74 77 80
+Mijlocas Norgaard 6 78.0 78 78 80
+Mijlocas Jensen 8 77.0 74 79 77
+Mijlocas Damsgaard 10 75.0 72 78 79
+Mijlocas Mbeumo 7 82.0 84 87 85
+Atacant Wissa 9 79.0 79 83 80
+Atacant Schade 11 76.0 77 81 81
+Everton 11
+Portar Pickford 1 83.0 83 77 82 82
+Fundas Patterson 2 74.0 77 74 78
+Fundas Tarkowski 4 80.0 75 83 83
+Fundas Branthwaite 5 80.0 78 83 86
+Fundas Mykolenko 3 77.0 73 83 78
+Mijlocas Gueye 6 78.0 77 84 77
+Mijlocas Garner 8 76.0 79 78 79
+Mijlocas McNeil 10 77.0 74 79 77
+Mijlocas Doucoure 7 78.0 82 80 82
+Mijlocas Calvert_Lewin 9 78.0 82 80 78
+Atacant Ndiaye 11 77.0 75 80 80
+Fulham 11
+Portar Leno 1 83.0 86 82 81 84
+Fundas Tete 2 77.0 77 83 82
+Fundas Andersen 4 80.0 81 85 84
+Fundas Bassey 5 78.0 73 81 83
+Fundas Robinson 3 78.0 74 82 82
+Mijlocas Lukic 6 76.0 81 80 79
+Mijlocas Pereira 8 79.0 76 82 81
+Mijlocas Smith_Rowe 10 78.0 78 83 79
+Mijlocas Iwobi 7 78.0 83 79 79
+Mijlocas Jimenez 9 78.0 76 79 76
+Atacant Traore 11 77.0 78 80 76
+Sunderland 11
+Portar Patterson 1 73.0 75 65 76 72
+Fundas Hume 2 73.0 73 77 73
+Fundas Ballard 4 74.0 76 80 74
+Fundas ONien 5 72.0 68 74 73
+Fundas Cirkin 3 73.0 74 74 74
+Mijlocas Neil 6 74.0 76 77 72
+Mijlocas Jobe_Bellingham 8 74.0 77 75 74
+Mijlocas Rigg 10 72.0 75 73 74
+Mijlocas Clarke 7 76.0 78 81 76
+Atacant Roberts 9 74.0 73 79 75
+Atacant Mayenda 11 72.0 75 78 77
+West_Ham_United 11
+Portar Areola 1 80.0 84 75 77 78
+Fundas Wan_Bissaka 2 80.0 75 80 84
+Fundas Mavropanos 4 78.0 78 83 79
+Fundas Kilman 5 79.0 75 80 82
+Fundas Emerson 3 79.0 83 84 82
+Mijlocas Alvarez 6 80.0 83 86 79
+Mijlocas Soucek 8 80.0 78 83 84
+Mijlocas Paqueta 10 83.0 87 84 87
+Mijlocas Bowen 7 84.0 85 90 85
+Mijlocas Kudus 9 82.0 83 88 87
+Atacant Fullkrug 11 80.0 80 82 83
+Leeds_United 11
+Portar Meslier 1 75.0 75 78 74 73
+Fundas Bogle 2 75.0 70 76 75
+Fundas Rodon 4 75.0 71 76 79
+Fundas Struijk 5 76.0 75 77 77
+Fundas Firpo 3 75.0 79 79 79
+Mijlocas Ampadu 6 76.0 78 81 80
+Mijlocas Gruev 8 73.0 78 73 71
+Mijlocas Gnonto 10 76.0 76 76 81
+Mijlocas Piroe 7 76.0 78 81 76
+Mijlocas Summerville 9 79.0 78 81 77
+Atacant Bamford 11 75.0 74 79 81
+Wolverhampton 11
+Portar Sa 1 79.0 83 74 77 77
+Fundas Semedo 2 78.0 76 84 80
+Fundas Dawson 4 78.0 74 78 82
+Fundas Toti 5 76.0 79 79 76
+Mijlocas Ait_Nouri 3 79.0 84 84 77
+Mijlocas Andre 6 78.0 76 79 82
+Mijlocas Joao_Gomes 8 79.0 76 85 83
+Mijlocas Bellegarde 10 76.0 75 78 79
+Atacant Cunha 7 82.0 83 83 86
+Atacant Hwang 9 79.0 83 83 85
+Atacant Sarabia 11 78.0 81 80 78
+Burnley 11
+Portar Trafford 1 75.0 76 73 76 74
+Fundas Roberts 2 74.0 78 79 79
+Fundas Esteve 4 75.0 72 78 77
+Fundas Beyer 5 75.0 71 75 79
+Fundas Pires 3 73.0 77 73 77
+Fundas Brownhill 6 75.0 76 78 76
+Mijlocas Cullen 8 75.0 79 75 73
+Mijlocas Koleosho 10 74.0 78 77 75
+Mijlocas Foster 7 76.0 77 80 75
+Mijlocas Amdouni 9 76.0 80 77 77
+Atacant Bruun_Larsen 11 74.0 74 80 75
