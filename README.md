@@ -22,3 +22,7 @@ Mi s-a parut interesant si faptul ca design pattern-urile chiar sunt utile, nu d
 Consider ca tema 3 este mult mai buna fata de tema 2 si arata clar ca proiectul a evoluat. Chiar daca ideea principala a ramas aceeasi, acum aplicatia este mai apropiata de modul in care sunt facute proiectele mai serioase. In plus, am invatat mai multe despre organizarea codului si despre cum pot fi folosite conceptele de POO intr-un proiect mai mare.
 
 Per total, tema 3 este mai complexa fata de tema 2 si contine mai multe concepte importante din C++. Cele mai mari diferente sunt transformarea clasei Echipa in template si adaugarea pattern-urilor Factory si Decorator. Cred ca aceste schimbari fac proiectul mai interesant, mai bine organizat si mai usor de extins pe viitor.
+
+Bibliografie:
+
+Link site ajutor creare design pattern decorator:https://refactoring.guru/design-patterns/decorator/cpp/example
